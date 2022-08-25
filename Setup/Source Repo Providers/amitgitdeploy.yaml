@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: develop
+keyAuth: false
+password: safeharness:mUDLHT9LRQOH7E4WFndoPQ
+url: https://github.com/amitsaxena4git/adminlab
+urlType: REPO
+username: amitsaxena4git

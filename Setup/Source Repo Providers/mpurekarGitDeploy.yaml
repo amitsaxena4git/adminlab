@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:FNuXzvOqRNKPbtfBuh26xQ
+url: https://github.com/mpurekar/Harnesser
+urlType: REPO
+username: mpurekargit
